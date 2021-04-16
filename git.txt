@@ -1,2 +1,9 @@
 git init
 git add *
+git log
+git status
+git commit -m "This is our first commit"
+header.php : echo "This is header";
+git log
+git status
+git add header.php
