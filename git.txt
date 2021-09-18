@@ -7,3 +7,4 @@ header.php : echo "This is header";
 git log
 git status
 git add header.php
+git push -u origin master
