@@ -7,4 +7,5 @@ header.php : echo "This is header";
 git log
 git status
 git add header.php
+git commit -m "Add git push command in git.txt"
 git push -u origin master
